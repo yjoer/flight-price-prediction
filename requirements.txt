@@ -1,0 +1,10 @@
+catboost
+hyperopt
+jupyterlab
+lightgbm
+matplotlib
+scikit-learn
+scipy
+seaborn
+statsmodels
+xgboost
