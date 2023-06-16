@@ -7,5 +7,6 @@ scikit-learn
 scipy
 seaborn
 statsmodels
+streamlit
 tensorflow
 xgboost
